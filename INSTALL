@@ -1,0 +1,4 @@
+To install the package, load the procided SQL file:
+
+mariadb some_db_name < package.sql
+
